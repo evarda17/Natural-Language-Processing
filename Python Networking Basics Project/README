@@ -7,7 +7,7 @@ This repository is dedicated to a project focusing on Python's networking capabi
 ### Contents
 
 - `hw_python.py`: A Python script illustrating the use of `urllib` to execute HTTP requests.
-- `HW2-1.ipynb`: A Jupyter notebook providing an interactive exploration of Python's networking features. This notebook contains comprehensive examples, exercises, and explanations.
+- `HW2-1.ipynb`: A notebook providing the required tasks to be completed. The solutions can be found in `hw_python.py`
 
 ## Getting Started
 
@@ -61,9 +61,3 @@ jupyter notebook HW2-1.ipynb
 
 Contributions to this project are welcome! If you have improvements, corrections, or enhancements in mind, please feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is made available under the MIT License - see the [LICENSE](LICENSE) file for detailed information.
-```
-
-Remember to replace `<your-username>` and `<repository-name>` with your GitHub username and the name of your repository, respectively. This Markdown structure will ensure that your README is well-formatted and GitHub-friendly, making it more readable and easier to navigate for visitors to your repository.
